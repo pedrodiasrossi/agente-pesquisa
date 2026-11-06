@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+*.tmp
+.env
+
+# Dados brutos e arquivos pesados (ajuste ao seu caso)
+dados-brutos/
+*.csv
+*.xlsx
+*.zip
